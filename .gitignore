@@ -1,0 +1,15 @@
+# Python environments and caches
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+
+# Generated datasets, trained models, and evaluation output
+/data/
+/models/
+/report/
+
+# Local agent/editor setup
+.agents/
+.claude/
+.DS_Store
